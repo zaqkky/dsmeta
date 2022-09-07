@@ -19,3 +19,13 @@ a, a:hover/*quando passa o mouse em cima*/, a:visited{
     color: unset;
     text-decoration: none;
 }
+
+.dsmeta-container{
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;/*alinha ao centro, é um "macete" então pode ser que não funcine em tds casos*/
+}
+
+#sales{
+  padding: 40px 10px;
+}
